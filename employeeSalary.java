@@ -1,3 +1,5 @@
+// please wrtie th main function, otherwise the scores will be deducted next time.
+// scores : 2 / 2;
 /*
 A: Write a java function to calculate the salary of an employee based on the
 following rules.
