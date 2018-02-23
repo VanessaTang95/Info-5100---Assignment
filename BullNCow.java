@@ -1,3 +1,4 @@
+scores :2 /2
 /*
 You are playing the following Bulls and Cows game with your friend: You
 write down a number and ask your friend to guess what the number is. Each
