@@ -1,3 +1,4 @@
+total scores: 10 / 10
 /**
 Problem:Write a java function to print all perfect number between 1 and n.
 Perfect number is a positive integer which is equal to the sum of its proper
