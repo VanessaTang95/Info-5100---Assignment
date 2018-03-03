@@ -1,9 +1,11 @@
+// scores : 4 / 4
+
 /*
 4.	Create a calculator that can perform the following features. (Total Score 4)
 
 i.	The calculator should be able to perform Addition, subtraction, multiplication, division. (Score 2)
 ii.	Should be able to perform squareRoot, square, cube. (Score 1)
- iii. Should be able to convert ‘Fahrenheit-Celsius’ , ‘Feet-Inches’. (Score 1)
+ iii. Should be able to convert â€˜Fahrenheit-Celsiusâ€™ , â€˜Feet-Inchesâ€™. (Score 1)
 
 */package assignment5;
 
@@ -56,7 +58,7 @@ class Calculator{
 		System.out.println("The cube of "+n+" is: "+n*n*n);
 	}
 	
-	//‘Fahrenheit-Celsius’
+	//â€˜Fahrenheit-Celsiusâ€™
 	public void fToC(double t1) {
 		double t2=(t1-32)*5/9;
 		System.out.println(t1+" Fahrenheit is "+t2+" Celsius");
