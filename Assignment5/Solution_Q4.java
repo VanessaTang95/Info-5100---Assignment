@@ -1,3 +1,4 @@
+// scores : 2 / 2
 /*
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. (2 scores)
 The brackets must close in the correct order, "()" and "()[]{}" are all valid 
